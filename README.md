@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrjgamboa, just call me L4ck.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning react js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, email me at gamboa.john@protonmail.com.
+- 📫 How to reach me, email me at jgamboa.dev@gmail.com.
